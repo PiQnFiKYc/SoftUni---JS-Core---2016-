@@ -1,6 +1,6 @@
 /**
- * Created by tania on 29.5.2017 г..
- */
+* Created by tania on 29.5.2017 г..
+*/
 function solve(n) {
     let dash =n - 2;
     let spaces = n - 2;
